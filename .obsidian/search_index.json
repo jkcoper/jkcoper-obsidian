@@ -1,0 +1,32 @@
+{
+  "vault_path": "/home/juan/obsidian-vault",
+  "created": "2026-01-09T13:18:08.322296",
+  "files": [
+    {
+      "path": "README.md",
+      "size": 1296,
+      "modified": "2026-01-09T11:29:20.032449",
+      "frontmatter": {},
+      "titles": [
+        "# Obsidian AI Integration System",
+        "## 🚀 Sistema Integral de Gestión de Conocimiento",
+        "### Componentes principales:",
+        "## 📁 Estructura del Vault",
+        "## 🔄 Scripts de Automatización",
+        "### Git Sync Script"
+      ],
+      "wikilinks": [],
+      "tags": [],
+      "hash": "2009669734845fbbe4a18d3949a53ee6",
+      "word_count": 174,
+      "line_count": 36
+    }
+  ],
+  "stats": {
+    "total_files": 1,
+    "total_size": 1296,
+    "total_words": 174,
+    "unique_tags": [],
+    "unique_links": []
+  }
+}
