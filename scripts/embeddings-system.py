@@ -105,7 +105,7 @@ class ObsidianEmbeddings:
         index['stats']['unique_links'] = list(index['stats']['unique_links'])
         
         # Guardar índice
-        self.index_file.parent.mkdir(exist_ok=True)
+        self.index_file.parent.mkdir(parents=True, exist_ok=True)
         with open(self.index_file, 'w', encoding='utf-8') as f:
             json.dump(index, f, indent=2, ensure_ascii=False)
         

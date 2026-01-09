@@ -1,6 +1,6 @@
 {
-  "vault_path": "/home/juan/obsidian-vault",
-  "created": "2026-01-09T13:18:08.322296",
+  "vault_path": ".",
+  "created": "2026-01-09T13:31:56.801338",
   "files": [
     {
       "path": "README.md",
@@ -20,13 +20,152 @@
       "hash": "2009669734845fbbe4a18d3949a53ee6",
       "word_count": 174,
       "line_count": 36
+    },
+    {
+      "path": "02-KNOWLEDGE/arquitectura-del-sistema.md",
+      "size": 1437,
+      "modified": "2026-01-09T13:19:34.799380",
+      "frontmatter": {
+        "type": "knowledge",
+        "category": "architecture",
+        "tags": "[system, architecture, design, patterns]",
+        "created": "2025-01-09"
+      },
+      "titles": [
+        "# Arquitectura del Sistema Obsidian AI",
+        "## 🏗️ Diseño General",
+        "### Capa de Datos",
+        "### Capa de Automatización",
+        "### Capa de Integración",
+        "## 🔄 Patrones de Diseño",
+        "### 1. Repository Pattern",
+        "#architecture #system #design #patterns #knowledge"
+      ],
+      "wikilinks": [],
+      "tags": [
+        "architecture",
+        "system",
+        "design",
+        "patterns",
+        "knowledge"
+      ],
+      "hash": "2a19c5016de71540cd5bdcd7be29231e",
+      "word_count": 196,
+      "line_count": 51
+    },
+    {
+      "path": "00-META/windows-setup-guide.md",
+      "size": 3643,
+      "modified": "2026-01-09T13:28:46.707656",
+      "frontmatter": {
+        "type": "guide",
+        "platform": "windows",
+        "tags": "[windows, setup, installation, cross-platform]",
+        "created": "2025-01-09"
+      },
+      "titles": [
+        "# Windows Setup Guide - Obsidian AI Integration",
+        "## 🪟 Instalación en Windows",
+        "### 1. Prerrequisitos",
+        "### 2. Instalación de Git",
+        "# Descargar e instalar Git for Windows",
+        "# https://git-scm.com/download/win",
+        "# Verificar instalación (PowerShell/CMD)",
+        "# Descargar e instalar Python desde python.org",
+        "# Marcar \"Add Python to PATH\" durante instalación",
+        "# Verificar instalación (PowerShell)",
+        "# En PowerShell o CMD",
+        "# Opción A: Configurar credential helper",
+        "# Opción B: Usar token en cada push",
+        "# En PowerShell",
+        "# Sincronizar vault",
+        "# Actualizar embeddings",
+        "# Ver estado de git",
+        "# Si git no está en PATH",
+        "# Reinstalar Git for Windows marcando \"Add Git to PATH\"",
+        "# Si hay problemas de permisos",
+        "# Ejecutar PowerShell como Administrador",
+        "# Si python no se reconoce",
+        "# Reinstalar Python marcando \"Add Python to PATH\"",
+        "# Si hay problemas de módulos",
+        "# Si los scripts no ejecutan",
+        "# En PowerShell (como Admin):",
+        "#windows #setup #guide #cross-platform #installation"
+      ],
+      "wikilinks": [],
+      "tags": [
+        "windows",
+        "setup",
+        "guide",
+        "cross",
+        "installation"
+      ],
+      "hash": "2579ee3540bafe24fff388e031253e89",
+      "word_count": 472,
+      "line_count": 110
+    },
+    {
+      "path": "01-PROJECTS/sistema-obsidian.md",
+      "size": 1345,
+      "modified": "2026-01-09T13:19:09.021920",
+      "frontmatter": {
+        "project": "Obsidian AI Integration",
+        "status": "active",
+        "priority": "high",
+        "tags": "[obsidian, ai, automation, cross-platform]",
+        "created": "2025-01-09"
+      },
+      "titles": [
+        "# Sistema Obsidian AI Integration",
+        "## 🎯 Objetivo",
+        "## 📋 Componentes",
+        "### 1. Vault Estructurado",
+        "### 2. Automatización",
+        "### 3. Integraciones AI",
+        "## 🔄 Flujo de Trabajo",
+        "## 📊 Métricas",
+        "## 🚀 Próximos Pasos",
+        "#obsidian #ai #automation #cross-platform #project"
+      ],
+      "wikilinks": [
+        "wikilinks"
+      ],
+      "tags": [
+        "tags",
+        "obsidian",
+        "ai",
+        "automation",
+        "cross",
+        "project"
+      ],
+      "hash": "06cadfc67fce860d02839e32d53cfe54",
+      "word_count": 189,
+      "line_count": 44
     }
   ],
   "stats": {
-    "total_files": 1,
-    "total_size": 1296,
-    "total_words": 174,
-    "unique_tags": [],
-    "unique_links": []
+    "total_files": 4,
+    "total_size": 7721,
+    "total_words": 1031,
+    "unique_tags": [
+      "automation",
+      "patterns",
+      "project",
+      "ai",
+      "knowledge",
+      "windows",
+      "setup",
+      "installation",
+      "system",
+      "cross",
+      "tags",
+      "obsidian",
+      "design",
+      "architecture",
+      "guide"
+    ],
+    "unique_links": [
+      "wikilinks"
+    ]
   }
 }
